@@ -1,7 +1,7 @@
 
 <h2>"# onlinetasklist-rn"  </h2>
 
-<h3># App criado durante o curso com a função de adicionar tarefas, marcar quando completas e excluir as mesmas,</br> foi utilizada a tecnologia React Native. </h3></br>
+<h3># App criado durante o curso com a função de adicionar tarefas, marcar quando completas e excluir as mesmas, foi utilizada a tecnologia React Native. </h3></br>
 
 Para rodar o projeto.
 
